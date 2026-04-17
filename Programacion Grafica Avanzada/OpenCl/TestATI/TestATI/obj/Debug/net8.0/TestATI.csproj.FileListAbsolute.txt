@@ -1,0 +1,17 @@
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\bin\Debug\net8.0\TestATI.exe
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\bin\Debug\net8.0\TestATI.deps.json
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\bin\Debug\net8.0\TestATI.runtimeconfig.json
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\bin\Debug\net8.0\TestATI.dll
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\bin\Debug\net8.0\TestATI.pdb
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\bin\Debug\net8.0\OpenCL.Net.dll
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\TestATI.csproj.AssemblyReference.cache
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\TestATI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\TestATI.AssemblyInfoInputs.cache
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\TestATI.AssemblyInfo.cs
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\TestATI.csproj.CoreCompileInputs.cache
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\TestATI.csproj.Up2Date
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\TestATI.dll
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\refint\TestATI.dll
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\TestATI.pdb
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\TestATI.genruntimeconfig.cache
+D:\Programacion Grafica Avanzada\OpenCl\TestATI\TestATI\obj\Debug\net8.0\ref\TestATI.dll

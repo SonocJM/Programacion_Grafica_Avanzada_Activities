@@ -1,0 +1,17 @@
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\bin\Debug\net8.0\OpenCl_F.exe
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\bin\Debug\net8.0\OpenCl_F.deps.json
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\bin\Debug\net8.0\OpenCl_F.runtimeconfig.json
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\bin\Debug\net8.0\OpenCl_F.dll
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\bin\Debug\net8.0\OpenCl_F.pdb
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\bin\Debug\net8.0\OpenCL.Net.dll
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\OpenCl_F.csproj.AssemblyReference.cache
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\OpenCl_F.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\OpenCl_F.AssemblyInfoInputs.cache
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\OpenCl_F.AssemblyInfo.cs
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\OpenCl_F.csproj.CoreCompileInputs.cache
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\OpenCl_F.csproj.Up2Date
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\OpenCl_F.dll
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\refint\OpenCl_F.dll
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\OpenCl_F.pdb
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\OpenCl_F.genruntimeconfig.cache
+D:\Programacion Grafica Avanzada\OpenCl_F\OpenCl_F\obj\Debug\net8.0\ref\OpenCl_F.dll

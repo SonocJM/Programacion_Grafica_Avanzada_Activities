@@ -1,0 +1,17 @@
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\OpenCl.csproj.AssemblyReference.cache
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\OpenCl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\OpenCl.AssemblyInfoInputs.cache
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\OpenCl.AssemblyInfo.cs
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\OpenCl.csproj.CoreCompileInputs.cache
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\bin\Debug\net8.0\OpenCl.exe
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\bin\Debug\net8.0\OpenCl.deps.json
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\bin\Debug\net8.0\OpenCl.runtimeconfig.json
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\bin\Debug\net8.0\OpenCl.dll
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\bin\Debug\net8.0\OpenCl.pdb
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\bin\Debug\net8.0\OpenCL.Net.dll
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\OpenCl.csproj.Up2Date
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\OpenCl.dll
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\refint\OpenCl.dll
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\OpenCl.pdb
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\OpenCl.genruntimeconfig.cache
+D:\Programacion Grafica Avanzada\OpenCl\OpenCl\obj\Debug\net8.0\ref\OpenCl.dll

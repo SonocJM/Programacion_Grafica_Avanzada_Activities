@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxDyP4nPpi8=",
+  "success": true,
+  "projectFilePath": "D:\\Programacion Grafica Avanzada\\OpenCl\\OpenCl\\OpenCl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\B760\\.nuget\\packages\\opencl.net\\2.2.9\\opencl.net.2.2.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"OpenCL.Net 2.2.9\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "D:\\Programacion Grafica Avanzada\\OpenCl\\OpenCl\\OpenCl.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Programacion Grafica Avanzada\\OpenCl\\OpenCl\\OpenCl.csproj",
+      "libraryId": "OpenCL.Net",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

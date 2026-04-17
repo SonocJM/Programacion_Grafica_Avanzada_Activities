@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ManagedCuda-100/10.0.31": {
+        "type": "package",
+        "compile": {
+          "lib/net46/ManagedCuda.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/ManagedCuda.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManagedCuda-100/10.0.31": {
+      "sha512": "nN+x9HMHCNDHaWFjXJwEXULMzD0FmdeTfp7p2ILLT3Ae1cxtWuLR5ra0olN+pmbAAGfcEQWGcp+Kui+vghvvZQ==",
+      "type": "package",
+      "path": "managedcuda-100/10.0.31",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/ManagedCuda.dll",
+        "lib/net40/ManagedCuda.pdb",
+        "lib/net40/ManagedCuda.xml",
+        "lib/net45/ManagedCuda.dll",
+        "lib/net45/ManagedCuda.pdb",
+        "lib/net45/ManagedCuda.xml",
+        "lib/net46/ManagedCuda.dll",
+        "lib/net46/ManagedCuda.pdb",
+        "lib/net46/ManagedCuda.xml",
+        "managedcuda-100.10.0.31.nupkg.sha512",
+        "managedcuda-100.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ManagedCuda-100 >= 10.0.31"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\B760\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Programacion Grafica Avanzada\\CUDA\\CUDA\\CUDA\\CUDA.csproj",
+      "projectName": "CUDA",
+      "projectPath": "D:\\Programacion Grafica Avanzada\\CUDA\\CUDA\\CUDA\\CUDA.csproj",
+      "packagesPath": "C:\\Users\\B760\\.nuget\\packages\\",
+      "outputPath": "D:\\Programacion Grafica Avanzada\\CUDA\\CUDA\\CUDA\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\B760\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "ManagedCuda-100": {
+            "target": "Package",
+            "version": "[10.0.31, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"ManagedCuda-100 10.0.31\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "ManagedCuda-100",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

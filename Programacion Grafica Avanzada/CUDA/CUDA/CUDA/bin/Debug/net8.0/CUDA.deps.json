@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CUDA/1.0.0": {
+        "dependencies": {
+          "ManagedCuda-100": "10.0.31"
+        },
+        "runtime": {
+          "CUDA.dll": {}
+        }
+      },
+      "ManagedCuda-100/10.0.31": {
+        "runtime": {
+          "lib/net46/ManagedCuda.dll": {
+            "assemblyVersion": "10.0.31.0",
+            "fileVersion": "10.0.31.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CUDA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagedCuda-100/10.0.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nN+x9HMHCNDHaWFjXJwEXULMzD0FmdeTfp7p2ILLT3Ae1cxtWuLR5ra0olN+pmbAAGfcEQWGcp+Kui+vghvvZQ==",
+      "path": "managedcuda-100/10.0.31",
+      "hashPath": "managedcuda-100.10.0.31.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\bin\Debug\net10.0\CUDA.exe
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\bin\Debug\net10.0\CUDA.deps.json
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\bin\Debug\net10.0\CUDA.runtimeconfig.json
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\bin\Debug\net10.0\CUDA.dll
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\bin\Debug\net10.0\CUDA.pdb
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\bin\Debug\net10.0\ManagedCuda.dll
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\CUDA.csproj.AssemblyReference.cache
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\CUDA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\CUDA.AssemblyInfoInputs.cache
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\CUDA.AssemblyInfo.cs
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\CUDA.csproj.CoreCompileInputs.cache
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\CUDA.csproj.Up2Date
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\CUDA.dll
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\refint\CUDA.dll
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\CUDA.pdb
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\CUDA.genruntimeconfig.cache
+D:\Programacion Grafica Avanzada\CUDA\CUDA\CUDA\obj\Debug\net10.0\ref\CUDA.dll
